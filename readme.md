@@ -105,7 +105,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Mazecompositor](https://github.com/capisce/mazecompositor) -  A 3D qtwayland compositor (wayland, MIT).
 - [Mir](https://mir-server.io/) - The fast, open and secure display server for any device (wayland, GPL).
 - [SWAY](https://swaywm.org/) - Tiling Wayland compositor (wayland, MIT).
-- [Weston](https://github.com/wayland-project/weston) - Wayland project reference compositor (wayland, MIT).
+- [Weston](https://gitlab.freedesktop.org/wayland/weston) - Wayland project reference compositor (wayland, MIT).
 
 ## Distributions
 
