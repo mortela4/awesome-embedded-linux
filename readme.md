@@ -249,6 +249,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Hiawatha](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix.
 - [lighttpd](https://www.lighttpd.net/) - Designed and optimized for high performance environments and for every server that is suffering load problems.
 - [Monkey](http://monkey-project.com/) - Monkey is a lightweight and scalable Web Server with a strong focus on Embedded devices.
+- [Mongoose](https://mongoose.ws/) - Embedded web server with a Web UI builder. Provides event-driven non-blocking APIs for TCP, UDP, HTTP, WebSocket, MQTT, and other protocols.
 - [nginx](http://nginx.org/) - Web server and reverse proxy server with a strong focus on high concurrency, performance and low memory usage.
 - [nostromo](http://www.nazgul.ch/dev_nostromo.html) - nhttpd is a simple, fast and secure HTTP server.
 - [sthttpd](https://github.com/blueness/sthttpd) - A simple, small, portable, fast, and secure HTTP server.
