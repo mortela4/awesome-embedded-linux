@@ -29,6 +29,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Platforms](#platforms)
 - [Process control systems](#process-control-systems)
 - [SSH servers](#ssh-servers)
+- [SysAdm Tools](#sysadm)
 - [Web servers](#web-servers)
 - [Zero configuration networking](#zero-configuration-networking)
 - [Books](#books)
@@ -240,6 +241,12 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [sshd](https://www.ssh.com/ssh/sshd/) - Popular OpenSSH server.
 - [TinySSH](https://tinyssh.org/) - Minimalistic SSH server which implements only a subset of SSHv2 features.
 - [wolfSSH](https://www.wolfssl.com/products/wolfssh/) - Lightweight SSHv2 server library written in ANSI C and targeted for embedded, RTOS, and resource-constrained environments.
+
+
+## SysAdm
+
+- [glance](https://nicolargo.github.io/glances/) - 'all-in-one' sysinfo tool w. CLI and web-dashboard, written in Python
+
 
 ## Web servers
 
