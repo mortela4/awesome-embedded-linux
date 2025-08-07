@@ -26,7 +26,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Kubernetes](#kubernetes)
 - [Kubernetes Edge Computing Platforms](#kubernetes-edge-computing-platforms)
 - [OTA software updates](#ota-software-updates)
-- [Platforms](#platforms)
+- [Platforms](#platforms) - bootloader+kernel+drivers+(basic)userspace+apps(optionally)
 - [Process control systems](#process-control-systems)
 - [SSH servers](#ssh-servers)
 - [SysAdm Tools](#sysadm)
@@ -223,9 +223,20 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Mender](https://mender.io/) - Open source client-server update manager.
 - [RAUC](https://rauc.io/) - Lightweight update client that runs on your Embedded Linux device and reliably controls the procedure of updating your device with a new firmware revision.
 
-## Platforms
 
-- [RZ/G Linux Platform](https://www.renesas.com/eu/en/products/rzg-linux-platform.html)
+## Platforms = unified bootloader + kernel + drivers + userspace bundles 
+
+### Vendor-supported SoC platforms
+- [RZ/G Linux Platform](https://www.renesas.com/eu/en/products/rzg-linux-platform.html) - Renesas' RZ-family (and R-CAR) ARM64-SoC Linux-platform
+- [RockChip Linux](https://github.com/linux-rockchip) - RockChip RK35xx a.o. ARM64-SoC Linux support
+- [NXP i.MX Linux](https://github.com/nxp-imx) - Linux on i.MX6/7/8/9 SoCs
+- [NXP i.MX support](https://github.com/nxp-imx-support) - various tools and libraries for i.MX
+
+### Automotive-specific
+- [Eclipse LEDA](https://github.com/eclipse-leda) - Yocto for Eclipse LEDA on Linux (NOTE: only userspace!)
+
+### Industrial-specific
+
 
 ## Process control systems
 
