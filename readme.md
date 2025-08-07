@@ -26,7 +26,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Kubernetes](#kubernetes)
 - [Kubernetes Edge Computing Platforms](#kubernetes-edge-computing-platforms)
 - [OTA software updates](#ota-software-updates)
-- [Platforms](#platforms)
+- [Platforms](#platforms) - bootloader+kernel+drivers+(basic)userspace+apps(optionally)
 - [Process control systems](#process-control-systems)
 - [SSH servers](#ssh-servers)
 - [SysAdm Tools](#sysadm)
@@ -224,7 +224,9 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [RAUC](https://rauc.io/) - Lightweight update client that runs on your Embedded Linux device and reliably controls the procedure of updating your device with a new firmware revision.
 
 
-## Platforms = unified bootloader + kernel + drivers + userspace bundles 
+## Platforms 
+Unified bootloader + kernel + drivers + (basic)userspace + applications(optionally) bundles.
+'Basic' userspace may or may not include Wayland/X11-support w. minimum window-manager system (i.e. Weston).
 
 ### Vendor-supported SoC platforms
 - [RZ/G Linux Platform](https://www.renesas.com/eu/en/products/rzg-linux-platform.html) - Renesas' RZ-family (and R-CAR) ARM64-SoC Linux-platform
