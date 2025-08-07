@@ -26,7 +26,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Kubernetes](#kubernetes)
 - [Kubernetes Edge Computing Platforms](#kubernetes-edge-computing-platforms)
 - [OTA software updates](#ota-software-updates)
-- [Platforms](#platforms) - bootloader+kernel+drivers+(basic)userspace+apps(optionally)
+- [Platforms](#platforms)
 - [Process control systems](#process-control-systems)
 - [SSH servers](#ssh-servers)
 - [SysAdm Tools](#sysadm)
