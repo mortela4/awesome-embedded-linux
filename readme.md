@@ -364,6 +364,8 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 
 - [Security (Linutronix)](https://linutronix.de/en/schulung/security.php) - Embedded security.
 - [Sulka](https://codeberg.org/altidSec/meta-sulka-distro) - Security-focused Yocto-Linux.
+- [TrustableSoftwareFramework](https://codethinklabs.gitlab.io/trustable/trustable/index.html) - 'Trustable' core component of TSF.
+
 
 ### Misc
 
