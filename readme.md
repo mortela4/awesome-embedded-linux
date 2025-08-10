@@ -238,6 +238,7 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 - [Eclipse LEDA](https://github.com/eclipse-leda) - Yocto for Eclipse LEDA on Linux (NOTE: only userspace!)
 
 ### Industrial-specific
+- [ARMSoM](https://docs.armsom.org) - Debian/Ubuntu/OpenWRT prebuilt images for various Rockchip RK35xx platforms. 
 
 
 ## Process control systems
