@@ -37,8 +37,11 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Trainings](#trainings)
 - [Related awesome lists](#related-awesome-lists)
 
-## Kernel Boot and Bootloaders
-
+## Linux-boot
+This section contains sub-sections covering
+* Kernel boot systems for secure and integrity-checked boot
+* Bootloader and/or 'BIOS' firmware (i.e. 'bootloaders')
+  
 ### Trusted Firmware and Boot-attestation
 - [ARM OP-TEE and TFA](https://github.com/ARM-software) - ARM's own OP-TEE and TFA reference docs and implementation.
 
