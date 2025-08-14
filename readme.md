@@ -8,7 +8,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Contents
 
-- [Bootloaders](#bootloaders)
+- [Kernel Boot and Bootloaders](#linux-boot)
 - [Build systems](#build-systems)
 - [Container runtimes](#container-runtimes)
 - [Container orchestration systems](#container-orchestration-systems)
@@ -37,8 +37,12 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Trainings](#trainings)
 - [Related awesome lists](#related-awesome-lists)
 
-## Bootloaders
+## Kernel Boot and Bootloaders
 
+### Trusted Firmware and Boot-attestation
+- [ARM OP-TEE and TFA](https://github.com/ARM-software) - ARM's own OP-TEE and TFA reference docs and implementation.
+
+### Bootloaders
 - [barebox](https://www.barebox.org/) - A bootloader (initially named U-Boot v2) designed for embedded systems.
 - [coreboot](https://www.coreboot.org/) - Extended firmware platform that delivers a lightning fast and secure boot experience on modern computers and embedded systems.
 - [libreboot](https://libreboot.org/) - coreboot distribution with proprietary software removed.
