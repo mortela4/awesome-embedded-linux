@@ -245,7 +245,10 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 - [Eclipse LEDA](https://github.com/eclipse-leda) - Yocto for Eclipse LEDA on Linux (NOTE: only userspace!)
 
 ### Industrial-specific
-- [ARMSoM](https://docs.armsom.org) - Debian/Ubuntu/OpenWRT prebuilt images for various Rockchip RK35xx platforms. 
+- [ARMSoM](https://docs.armsom.org) - Debian/Ubuntu/OpenWRT prebuilt images for various Rockchip RK35xx platforms.
+
+### RISC-V Specific (or affiliated)
+- [RISCstar](https://github.com/riscstar) - RISC-V Linux generally, and secure-boot solutions specifically. See presentations!
 
 
 ## Process control systems
