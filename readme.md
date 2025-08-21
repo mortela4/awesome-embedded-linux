@@ -28,7 +28,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [OTA software updates](#ota-software-updates)
 - [Platforms](#platforms) - bootloader+kernel+drivers+(basic)userspace+apps(optionally)
 - [Process control systems](#process-control-systems)
-- [SSH servers](#ssh-servers)
+- [SSH-Tools](#ssh-tools)
 - [SysAdm Tools](#sysadm)
 - [Web servers](#web-servers)
 - [Zero configuration networking](#zero-configuration-networking)
@@ -264,12 +264,18 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 - [Supervisor](http://supervisord.org/) - A client/server system that allows its users to monitor and control a number of processes.
 - [watchdogd](https://github.com/troglobit/watchdogd) - Advanced System & Process Supervisor for (embedded) Linux.
 
-## SSH servers
+## SSH-Tools 
+
+### SSH servers
 
 - [dropbear](https://matt.ucc.asn.au/dropbear/dropbear.html) - A relatively small SSH server and client particularly useful for "embedded"-type Linux.
 - [sshd](https://www.ssh.com/ssh/sshd/) - Popular OpenSSH server.
 - [TinySSH](https://tinyssh.org/) - Minimalistic SSH server which implements only a subset of SSHv2 features.
 - [wolfSSH](https://www.wolfssl.com/products/wolfssh/) - Lightweight SSHv2 server library written in ANSI C and targeted for embedded, RTOS, and resource-constrained environments.
+
+### SSH clients
+
+- [Termius](https://termius.com/) - basic version is free, rest is payware (but, a VERY GOOD tool).
 
 
 ## SysAdm
