@@ -45,6 +45,11 @@ This section contains sub-sections covering
 ### Trusted Firmware and Boot-attestation
 - [ARM OP-TEE and TFA](https://github.com/ARM-software) - ARM's own OP-TEE and TFA reference docs and implementation.
 
+### DeviceTree and DTBs
+- [Stubble](https://github.com/canonical/stubble) - BIOS stub to load 'correct' DTB (primarily for ARM64 systems)
+
+### ACPI and BIOS
+
 ### Bootloaders
 - [barebox](https://www.barebox.org/) - A bootloader (initially named U-Boot v2) designed for embedded systems.
 - [coreboot](https://www.coreboot.org/) - Extended firmware platform that delivers a lightning fast and secure boot experience on modern computers and embedded systems.
