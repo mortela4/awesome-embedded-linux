@@ -280,7 +280,11 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 
 ## SysAdm
 
+### System Monitoring
 - [glance](https://nicolargo.github.io/glances/) - 'all-in-one' sysinfo tool w. CLI and web-dashboard, written in Python
+
+### Remote Access
+- [FreeRDP](https://github.com/FreeRDP) - opensource, multiplatform RDP server and client(s).
 
 
 ## Web servers
