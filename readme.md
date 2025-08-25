@@ -33,6 +33,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Web servers](#web-servers)
 - [Zero configuration networking](#zero-configuration-networking)
 - [Books](#books)
+- [Blogs](#blogs)
 - [Presentations](#presentations)
 - [Trainings](#trainings)
 - [Related awesome lists](#related-awesome-lists)
@@ -331,6 +332,12 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 - [Essential Linux Device Drivers](https://elinux.org/Essential_Linux_Device_Drivers) - [book website](https://www.elinuxdd.com/).
 - [Linux Device Drivers](https://elinux.org/Linux_Device_Drivers) - [book website](http://shop.oreilly.com/product/9780596005900.do), [free only version](https://lwn.net/Kernel/LDD3/).
 - [Linux Device Drivers Development: Develop customized drivers for embedded Linux](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development).
+
+
+## Blogs
+
+- [HackerBikePacker](https://hackerbikepacker.com/tech/) - lots of instructional info on kernel device-driver development.
+
 
 ## Presentations
 
