@@ -45,6 +45,7 @@ This section contains sub-sections covering
   
 ### Trusted Firmware and Boot-attestation
 - [ARM OP-TEE and TFA](https://github.com/ARM-software) - ARM's own OP-TEE and TFA reference docs and implementation.
+- [SCP-firmware](https://gitlab.arm.com/firmware/SCP-firmware) - ARM's reference-code for SCP(="SystemControlProcessor"), a co-processor(Cortex-M or RISC-V typically) initializing power and GPIOs in a SoC/application-processor.
 
 ### DeviceTree and DTBs
 - [Stubble](https://github.com/canonical/stubble) - BIOS stub to load 'correct' DTB (primarily for ARM64 systems)
