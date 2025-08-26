@@ -28,8 +28,10 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [OTA software updates](#ota-software-updates)
 - [Platforms](#platforms) - bootloader+kernel+drivers+(basic)userspace+apps(optionally)
 - [Process control systems](#process-control-systems)
-- [SSH-Tools](#ssh-tools)
-- [SysAdm Tools](#sysadm)
+- [Tools](#tools)
+  - [SSH-Tools](#ssh-tools)
+  - [SysAdm Tools](#sysadm)
+  - [DeviceTree](#devicetree)
 - [Web servers](#web-servers)
 - [Zero configuration networking](#zero-configuration-networking)
 - [Books](#books)
@@ -266,27 +268,33 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 - [Supervisor](http://supervisord.org/) - A client/server system that allows its users to monitor and control a number of processes.
 - [watchdogd](https://github.com/troglobit/watchdogd) - Advanced System & Process Supervisor for (embedded) Linux.
 
-## SSH-Tools 
 
-### SSH servers
+## Tools
+
+### SSH-Tools 
+
+#### SSH servers
 
 - [dropbear](https://matt.ucc.asn.au/dropbear/dropbear.html) - A relatively small SSH server and client particularly useful for "embedded"-type Linux.
 - [sshd](https://www.ssh.com/ssh/sshd/) - Popular OpenSSH server.
 - [TinySSH](https://tinyssh.org/) - Minimalistic SSH server which implements only a subset of SSHv2 features.
 - [wolfSSH](https://www.wolfssl.com/products/wolfssh/) - Lightweight SSHv2 server library written in ANSI C and targeted for embedded, RTOS, and resource-constrained environments.
 
-### SSH clients
+#### SSH clients
 
 - [Termius](https://termius.com/) - basic version is free, rest is payware (but, a VERY GOOD tool).
 
 
-## SysAdm
+### SysAdm
 
-### System Monitoring
+#### System Monitoring
 - [glance](https://nicolargo.github.io/glances/) - 'all-in-one' sysinfo tool w. CLI and web-dashboard, written in Python
 
-### Remote Access
+#### Remote Access
 - [FreeRDP](https://github.com/FreeRDP) - opensource, multiplatform RDP server and client(s).
+
+### DeviceTree
+- [DTshell](https://github.com/dottspina/dtsh) - list and inspect DT/OF-nodes (works for Zephyr-DTS'es too ...)
 
 
 ## Web servers
