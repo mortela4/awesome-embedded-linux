@@ -31,6 +31,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Tools](#tools)
   - [SSH-Tools](#ssh-tools)
   - [SysAdm Tools](#sysadm)
+  - [Security-tools](#security-tools)
   - [DeviceTree](#devicetree)
 - [Web servers](#web-servers)
 - [Zero configuration networking](#zero-configuration-networking)
@@ -38,6 +39,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Blogs](#blogs)
 - [Presentations](#presentations)
 - [Trainings](#trainings)
+  - [Linux-security](#linux-security)
 - [Related awesome lists](#related-awesome-lists)
 
 ## Linux-boot
@@ -293,6 +295,8 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 #### Remote Access
 - [FreeRDP](https://github.com/FreeRDP) - opensource, multiplatform RDP server and client(s).
 
+#### Security-tools
+
 ### DeviceTree
 - [DTshell](https://github.com/dottspina/dtsh) - list and inspect DT/OF-nodes (works for Zephyr-DTS'es too ...)
 
@@ -376,6 +380,11 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 - Embedded Linux Conference 2006 [slides](https://elinux.org/ELC_2006_Presentations)
 
 ## Trainings
+
+### Linux-security
+
+- [OWASP's security best-practices](https://scriptingxss.gitbook.io/embedded-appsec-best-practices) - GitBook project outlining security 'best practices' from OWASP.
+
 
 ### System
 
