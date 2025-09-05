@@ -251,6 +251,7 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 - [RockChip Linux](https://github.com/linux-rockchip) - RockChip RK35xx a.o. ARM64-SoC Linux support
 - [NXP i.MX Linux](https://github.com/nxp-imx) - Linux on i.MX6/7/8/9 SoCs
 - [NXP i.MX support](https://github.com/nxp-imx-support) - various tools and libraries for i.MX
+- [LibreComputerProject](https://github.com/libre-computer-project) - for most AMLogic SoCs (and some Rockchip).
 
 ### Automotive-specific
 - [Eclipse LEDA](https://github.com/eclipse-leda) - Yocto for Eclipse LEDA on Linux (NOTE: only userspace!)
