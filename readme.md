@@ -33,6 +33,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
   - [SysAdm Tools](#sysadm)
   - [Security-tools](#security-tools)
   - [DeviceTree](#devicetree)
+  - [Toolchains](#toolchains)
 - [Web servers](#web-servers)
 - [Zero configuration networking](#zero-configuration-networking)
 - [Books](#books)
@@ -300,6 +301,12 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 
 ### DeviceTree
 - [DTshell](https://github.com/dottspina/dtsh) - list and inspect DT/OF-nodes (works for Zephyr-DTS'es too ...)
+
+
+### Toolchains
+
+#### Std.C/C++ Support
+- [LwMalloc](https://github.com/taehyeon-masu/lwmalloc) - "Lightweight-Malloc", 'malloc()'/'calloc()'/'free()' etc. GlibC-replacement for resource-constrained systems.
 
 
 ## Web servers
