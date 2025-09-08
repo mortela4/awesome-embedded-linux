@@ -298,6 +298,14 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 - [FreeRDP](https://github.com/FreeRDP) - opensource, multiplatform RDP server and client(s).
 
 ### Security-tools
+- [Wazuh](https://wazuh.com/) - complete security-tools suite.
+- [SecurityOnion](https://securityonionsolutions.com/) - same as above, with centraldashboard w. monitoring/logging.
+- [pfSense](https://www.pfsense.org/) - "world's most secure firewall".
+- [KeePass](https://keepass.info/) - passwords storage solution.
+- [OpenVAS](https://www.openvas.org/) - Vulnerability scan/test tool.
+- [Snort](https://www.snort.org/) - Network intrusion detection and prevention tool.
+- [Zeek](https://zeek.org/) - Network security monitoring.
+
 
 ### DeviceTree
 - [DTshell](https://github.com/dottspina/dtsh) - list and inspect DT/OF-nodes (works for Zephyr-DTS'es too ...)
