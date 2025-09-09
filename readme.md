@@ -41,6 +41,8 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Presentations](#presentations)
 - [Trainings](#trainings)
   - [Linux-security](#linux-security)
+- [Developer Hubs](#developer-hubs)
+  - [SoM/SBC Vendors](#som-sbc-vendors)
 - [Related awesome lists](#related-awesome-lists)
 
 ## Linux-boot
@@ -441,6 +443,14 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 - [Linux Advanced (Linutronix)](https://linutronix.de/en/schulung/linux_advanced.php) - Scheduling mechanisms, real-time, multicore, CPU isolation, IPC development, best practices of application development.
 - [Realtime (Linutronix)](https://linutronix.de/en/schulung/realtime_and_more.php) - Linux and Realtime (Preempt-RT).
 - [Tracing & Debug (Linutronix)](https://linutronix.de/en/schulung/tracing_and_more.php) - Detailed insight into the Linux Tracing Infrastructure and its powerful features.
+
+
+## Developer Hubs
+
+### SoM/SBC Vendors
+
+- [SECO Developer Center](https://developer.seco.com/)
+
 
 ## Related awesome lists
 
