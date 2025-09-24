@@ -25,6 +25,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Kernel modules](#kernel-modules)
 - [Kubernetes](#kubernetes)
 - [Kubernetes Edge Computing Platforms](#kubernetes-edge-computing-platforms)
+- [Libraries and APIs](#linux-libs)
 - [OTA software updates](#ota-software-updates)
 - [Platforms](#platforms) - bootloader+kernel+drivers+(basic)userspace+apps(optionally)
 - [Process control systems](#process-control-systems)
@@ -236,6 +237,11 @@ This section contains sub-sections covering
 
 - [Baetyl](https://baetyl.io/en/) - Baetyl, extend cloud computing, data and service seamlessly to edge devices.
 - [KubeEdge](https://kubeedge.io/en/) - KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge.
+
+## Libraries and APIs
+
+- [LibFPrint](https://github.com/Xelef2000/libfprint) - Unified fingerprint-sensor access API.
+
 
 ## OTA software updates
 
