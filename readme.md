@@ -317,6 +317,15 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 - [Snort](https://www.snort.org/) - Network intrusion detection and prevention tool.
 - [Zeek](https://zeek.org/) - Network security monitoring.
 
+### Compliance Tools
+These are tools that are for security/safety-documentation mainly, 
+or to collect SW-info/SBOM-info for such purposes - possibly to provide compliance-documents 
+directly(i.e. tool generates report fit for compliance-doc) or indirectly(user converts report into doc).
+- [IoT Cypersecurity Compliance](https://github.com/zealience/IoT-Cybersecurity-Compliance/) - EN-18031 compliance checklist.
+- [CycloneDX Tools](https://cyclonedx.org/tool-center/) - Tools related to SBOMs primarily in CDX("CycloneDX") format, or to/from conversion thereof.
+- [CDXgen](https://cyclonedx.github.io/cdxgen/#/) - Generate various BOMs for (Linux-)SW directly from repositories etc.
+- [EN-18031 Vulnerability Checker](https://github.com/zealience/en18031-vulnerability-documentation) - Check SW-projects for (known) CVEs/vulneraibilty, and generate report.
+
 
 ### DeviceTree
 - [DTshell](https://github.com/dottspina/dtsh) - list and inspect DT/OF-nodes (works for Zephyr-DTS'es too ...)
