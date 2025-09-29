@@ -198,6 +198,8 @@ This section contains sub-sections covering
 - [QNX Hypervisor](https://blackberry.qnx.com/en/products/hypervisor/index) - (type 1, bare metal).
 - [RTS Hypervisor](https://www.real-time-systems.com/product-highlights.html) - (type 1, bare metal).
 - [Xen Project Hypervisor](https://xenproject.org/) - (type 1, bare metal).
+- [MultiKernel](https://multikernel.io/) - Run multiple, full-fledged Linux OS instances on same CPU (but on separate cores). I.e. this is **NOT** actually a hypervisor technology! 
+
 
 ## Init systems
 
