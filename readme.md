@@ -60,6 +60,7 @@ This section contains sub-sections covering
 - [Stubble](https://github.com/canonical/stubble) - BIOS stub to load 'correct' DTB (primarily for ARM64 systems)
 
 ### ACPI and BIOS
+- [BootableApps](https://github.com/michaelo/bootable-applications) - HOWTO write UEFI-dependent (bootable-)applications. 
 
 ### Bootloaders
 - [barebox](https://www.barebox.org/) - A bootloader (initially named U-Boot v2) designed for embedded systems.
