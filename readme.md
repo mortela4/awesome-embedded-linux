@@ -340,6 +340,10 @@ directly(i.e. tool generates report fit for compliance-doc) or indirectly(user c
 #### Std.C/C++ Support
 - [LwMalloc](https://github.com/taehyeon-masu/lwmalloc) - "Lightweight-Malloc", 'malloc()'/'calloc()'/'free()' etc. GlibC-replacement for resource-constrained systems.
 
+### USB
+
+- [UHubCtl](https://github.com/mvp/uhubctl) - Control power on USB-hub ports (ON/OFF/toggle/force-suspend).
+
 
 ## Web servers
 
