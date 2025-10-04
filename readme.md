@@ -302,6 +302,9 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 
 ### SysAdm
 
+#### System Config and Control
+- [ISD](https://github.com/kainctl/isd) - "Interactive SystemD"; a TUI for using SystemD interactively.
+
 #### System Monitoring
 - [glance](https://nicolargo.github.io/glances/) - 'all-in-one' sysinfo tool w. CLI and web-dashboard, written in Python
 
