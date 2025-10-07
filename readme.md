@@ -217,6 +217,8 @@ This section contains sub-sections covering
 ## IoT platform integrations
 
 [2019/2020 there existed approx. 600 IoT platforms.](https://iot-analytics.com/iot-platform-companies-landscape-2020/) "IoT" includes domains like healthcare, industry, etc. 
+[Eclipse S-CORE](https://eclipse.dev/score/) - 'Secure-CORE' platform for auomotive and industrial use.
+
 
 ## Kernel patches
 
