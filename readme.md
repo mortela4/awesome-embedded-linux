@@ -465,6 +465,7 @@ directly(i.e. tool generates report fit for compliance-doc) or indirectly(user c
 - [Security (Linutronix)](https://linutronix.de/en/schulung/security.php) - Embedded security.
 - [Sulka](https://codeberg.org/altidSec/meta-sulka-distro) - Security-focused Yocto-Linux.
 - [TrustableSoftwareFramework](https://codethinklabs.gitlab.io/trustable/trustable/index.html) - 'Trustable' core component of TSF.
+- [OpenSSF Guides](https://openssf.org/resources/guides/) - Hardening techniques, compiler options to use etc.etc.
 
 
 ### Misc
