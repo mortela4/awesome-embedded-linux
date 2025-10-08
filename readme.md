@@ -305,10 +305,11 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 - [Termius](https://termius.com/) - basic version is free, rest is payware (but, a VERY GOOD tool).
 
 
-### SysAdm
+### SysAdm Tools
 
 #### System Config and Control
 - [ISD](https://github.com/kainctl/isd) - "Interactive SystemD"; a TUI for using SystemD interactively.
+- [WiFiTUI](https://github.com/shazow/wifitui) - TUI for NetworkManager's WiFi-config setup ('nmui' replacement).
 
 #### System Monitoring
 - [glance](https://nicolargo.github.io/glances/) - 'all-in-one' sysinfo tool w. CLI and web-dashboard, written in Python
