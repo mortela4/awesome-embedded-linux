@@ -395,6 +395,11 @@ directly(i.e. tool generates report fit for compliance-doc) or indirectly(user c
 - [Linux Device Drivers](https://elinux.org/Linux_Device_Drivers) - [book website](http://shop.oreilly.com/product/9780596005900.do), [free only version](https://lwn.net/Kernel/LDD3/).
 - [Linux Device Drivers Development: Develop customized drivers for embedded Linux](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development).
 
+### Heterogenous Processing
+Concerns DSP/CPU/MCU-to-MCU/CPU/DSP type communication between heterogenous cores, where 'DSP' can also be FPGA logic.
+
+- [MicroZED Chronicles](https://github.com/ATaylorCEngFIET/MicroZed-Chronicles) - Example code from book on Xilinx 'MicroZED' FPGA board.
+
 
 ## Blogs
 
@@ -485,6 +490,10 @@ directly(i.e. tool generates report fit for compliance-doc) or indirectly(user c
 ### SoM/SBC Vendors
 
 - [SECO Developer Center](https://developer.seco.com/)
+
+### Linux-on-FPGAs
+
+- [Xilinx Wiki](https://xilinx-wiki.atlassian.net/wiki/spaces/A/overview) - Everything about AMD's Xilinx FPGAs (MPSoC/UltraScale/Zynq).
 
 
 ## Related awesome lists
