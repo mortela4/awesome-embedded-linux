@@ -400,6 +400,7 @@ directly(i.e. tool generates report fit for compliance-doc) or indirectly(user c
 Concerns DSP/CPU/MCU-to-MCU/CPU/DSP type communication between heterogenous cores, where 'DSP' can also be FPGA logic.
 
 - [MicroZED Chronicles](https://github.com/ATaylorCEngFIET/MicroZed-Chronicles) - Example code from book on Xilinx 'MicroZED' FPGA board.
+- [AutoFPGA](https://github.com/ZipCPU/autofpga) - Generate FPGA design from peripherals description (interconnected by WishBone-bus).
 
 
 ## Blogs
