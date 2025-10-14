@@ -8,6 +8,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 
 ## Contents
 
+- [Android](#android)
 - [Kernel Boot and Bootloaders](#linux-boot)
 - [Build systems](#build-systems)
 - [Container runtimes](#container-runtimes)
@@ -46,6 +47,12 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Developer Hubs](#developer-hubs)
   - [SoM/SBC Vendors](#som-sbc-vendors)
 - [Related awesome lists](#related-awesome-lists)
+
+## Android
+Android and clones/compatibles - both Linux- and AOSP-based.
+
+- [GrapheneOS](https://github.com/GrapheneOS) - privacy focused AOSP-based OS w. strong Android-compatibility.
+
 
 ## Linux-boot
 This section contains sub-sections covering
