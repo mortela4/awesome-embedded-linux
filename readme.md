@@ -226,6 +226,7 @@ This section contains sub-sections covering
 - [2019/2020 there existed approx. 600 IoT platforms.](https://iot-analytics.com/iot-platform-companies-landscape-2020/) "IoT" includes domains like healthcare, industry, etc. 
 - [Eclipse S-CORE](https://eclipse.dev/score/) - 'Secure-CORE' platform for auomotive and industrial use.
 - [IoTDB](https://iotdb.apache.org/) - IoT-specific database solution under Apache Foundation.
+- [AvocadoLinux](https://www.avocadolinux.org/) - Ready-made Linux BSPs for most popular 'industrial' SoCs (RPi5, nVidia, NXP), focusing on shipping applications (i.e. no Yocto fumbling).
 
 
 ## Kernel patches
