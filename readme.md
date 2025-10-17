@@ -52,6 +52,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 Android and clones/compatibles - both Linux- and AOSP-based.
 
 - [GrapheneOS](https://github.com/GrapheneOS) - privacy focused AOSP-based OS w. strong Android-compatibility.
+- [LibrePhone](https://librephone.fsf.org/site/) - Fully opensource Linux-alternative to Android from FSF.
 
 
 ## Linux-boot
