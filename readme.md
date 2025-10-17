@@ -506,6 +506,12 @@ Concerns DSP/CPU/MCU-to-MCU/CPU/DSP type communication between heterogenous core
 - [Xilinx Wiki](https://xilinx-wiki.atlassian.net/wiki/spaces/A/overview) - Everything about AMD's Xilinx FPGAs (MPSoC/UltraScale/Zynq).
 
 
+### Benchmarks and Reviews
+
+- [SBC-Reviews](https://github.com/geerlingguy/sbc-reviews) - Benchmarking popular ARM-SBCs. Also lots of info on Ansible-automation.
+
+
+
 ## Related awesome lists
 
 - [awesome-edge-ai](https://github.com/rcmalli/awesome-edge-ai)
