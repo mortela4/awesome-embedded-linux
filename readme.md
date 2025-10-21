@@ -36,6 +36,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
   - [Security-tools](#security-tools)
   - [DeviceTree](#devicetree)
   - [Toolchains](#toolchains)
+  - [Misc Tools](#misc-tools)
 - [Web servers](#web-servers)
 - [Zero configuration networking](#zero-configuration-networking)
 - [Books](#books)
@@ -354,6 +355,12 @@ directly(i.e. tool generates report fit for compliance-doc) or indirectly(user c
 
 #### Std.C/C++ Support
 - [LwMalloc](https://github.com/taehyeon-masu/lwmalloc) - "Lightweight-Malloc", 'malloc()'/'calloc()'/'free()' etc. GlibC-replacement for resource-constrained systems.
+
+
+### Misc Tools
+- [Fzf](https://github.com/junegunn/fzf) - "Fuzzy Finder"; advanced 'find' using fuzzy algorithm(s).
+
+
 
 ### USB
 
