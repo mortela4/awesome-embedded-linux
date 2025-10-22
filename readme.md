@@ -359,7 +359,7 @@ directly(i.e. tool generates report fit for compliance-doc) or indirectly(user c
 
 ### Misc Tools
 - [Fzf](https://github.com/junegunn/fzf) - "Fuzzy Finder"; advanced 'find' using fuzzy algorithm(s).
-
+- [Redis Insights](https://redis.io/insight/) - Dashboard/GUI for viewing Redis DB/broker data and inner workings.
 
 
 ### USB
