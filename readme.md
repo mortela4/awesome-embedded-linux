@@ -229,6 +229,7 @@ This section contains sub-sections covering
 - [Eclipse S-CORE](https://eclipse.dev/score/) - 'Secure-CORE' platform for auomotive and industrial use.
 - [IoTDB](https://iotdb.apache.org/) - IoT-specific database solution under Apache Foundation.
 - [AvocadoLinux](https://www.avocadolinux.org/) - Ready-made Linux BSPs for most popular 'industrial' SoCs (RPi5, nVidia, NXP), focusing on shipping applications (i.e. no Yocto fumbling).
+- [NapiOS](https://napi-x.com/) - 'edge-to-backend' platform for easy sensor-data integration, using 'swupdate' for OTA and 'OverlayFS' for backup/restore/reset. Rockchip RK33/35-focused.
 
 
 ## Kernel patches
@@ -422,6 +423,11 @@ Concerns DSP/CPU/MCU-to-MCU/CPU/DSP type communication between heterogenous core
 ## Blogs
 
 - [HackerBikePacker](https://hackerbikepacker.com/tech/) - lots of instructional info on kernel device-driver development.
+
+
+## Industry Consortiums and Standards
+
+- [ASA](https://auto-serdes.org/) - Automotive, in-vehicle communications standard at link&phy-layer, used for hi-speed sensor-data aggregation and video IN/OUT-distribution.
 
 
 ## Presentations
