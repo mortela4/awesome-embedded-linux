@@ -41,6 +41,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Zero configuration networking](#zero-configuration-networking)
 - [Books](#books)
 - [Blogs](#blogs)
+- [Industry Consortiums and Standards](#consortiums-and-standards)
 - [Presentations](#presentations)
 - [Trainings](#trainings)
   - [General eLinux Training](#general-elinux-training) 
