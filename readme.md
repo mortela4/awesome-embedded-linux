@@ -323,6 +323,7 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 #### System Config and Control
 - [ISD](https://github.com/kainctl/isd) - "Interactive SystemD"; a TUI for using SystemD interactively.
 - [WiFiTUI](https://github.com/shazow/wifitui) - TUI for NetworkManager's WiFi-config setup ('nmui' replacement).
+- [CronBoard](https://github.com/antoniorodr/Cronboard) - TUI for adding, deleting and monitoring 'cron' jobs.
 
 #### System Monitoring
 - [glance](https://nicolargo.github.io/glances/) - 'all-in-one' sysinfo tool w. CLI and web-dashboard, written in Python
