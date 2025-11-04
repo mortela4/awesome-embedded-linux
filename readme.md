@@ -320,6 +320,10 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 
 ### SysAdm Tools
 
+#### Utils
+- [Nemotron](https://developer.nvidia.com/nemotron) - generate custom Bash-extensions(=scripts) using nVidia's "Nemotron" AI-tool.
+
+
 #### System Config and Control
 - [ISD](https://github.com/kainctl/isd) - "Interactive SystemD"; a TUI for using SystemD interactively.
 - [WiFiTUI](https://github.com/shazow/wifitui) - TUI for NetworkManager's WiFi-config setup ('nmui' replacement).
@@ -430,6 +434,8 @@ Concerns DSP/CPU/MCU-to-MCU/CPU/DSP type communication between heterogenous core
 ## Industry Consortiums and Standards
 
 - [ASA](https://auto-serdes.org/) - Automotive, in-vehicle communications standard at link&phy-layer, used for hi-speed sensor-data aggregation and video IN/OUT-distribution.
+- [CentOS Automotive](https://sigs.centos.org/automotive/) - CentOS SIG('SpecialInterestsGroup') for automotive.
+- [OpenComputeProject](https://www.opencompute.org) - Cloud and HPC under an opensource umbrella (anything from BMC and bootloaders to cooling and terabit-networking)
 
 
 ## Presentations
