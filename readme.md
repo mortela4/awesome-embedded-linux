@@ -288,6 +288,7 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 
 ### Industrial-specific
 - [ARMSoM](https://docs.armsom.org) - Debian/Ubuntu/OpenWRT prebuilt images for various Rockchip RK35xx platforms.
+- [GrinnGlobal](https://github.com/grinn-global) - Yocto-distros w. BSP for their ARM32/64 SoMs (Rockchip, Synaptics and i.MX(6))
 
 ### RISC-V Specific (or affiliated)
 - [RISCstar](https://github.com/riscstar) - RISC-V Linux generally, and secure-boot solutions specifically. See presentations!
