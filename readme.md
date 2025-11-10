@@ -430,6 +430,7 @@ Concerns DSP/CPU/MCU-to-MCU/CPU/DSP type communication between heterogenous core
 ## Blogs
 
 - [HackerBikePacker](https://hackerbikepacker.com/tech/) - lots of instructional info on kernel device-driver development.
+- [Popovicu's eLinux and MCU blog](https://popovicu.com/) - Anything from small RISC-V MCUs to RTOSes, to KVM&QEMU on Linux.
 
 
 ## Industry Consortiums and Standards
