@@ -292,6 +292,7 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 
 ### RISC-V Specific (or affiliated)
 - [RISCstar](https://github.com/riscstar) - RISC-V Linux generally, and secure-boot solutions specifically. See presentations!
+- [Banana-Pi](https://docs.banana-pi.org/en/home) - Home to the "Banana-Pi" SpaceMiT-based RISC-V SBC (plus more). Opensource HW&SW!
 
 
 ## Process control systems
