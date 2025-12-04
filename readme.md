@@ -261,6 +261,7 @@ This section contains sub-sections covering
 ## Libraries and APIs
 
 - [LibFPrint](https://github.com/Xelef2000/libfprint) - Unified fingerprint-sensor access API.
+- [DPDK](https://core.dpdk.org/) - 'DataPlaneDevelopmentKit', for ultra-efficient networking (i.e. using CXL and associated drivers)
 
 
 ## OTA software updates
