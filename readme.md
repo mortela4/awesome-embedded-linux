@@ -521,6 +521,7 @@ Concerns DSP/CPU/MCU-to-MCU/CPU/DSP type communication between heterogenous core
 - [Linux Advanced (Linutronix)](https://linutronix.de/en/schulung/linux_advanced.php) - Scheduling mechanisms, real-time, multicore, CPU isolation, IPC development, best practices of application development.
 - [Realtime (Linutronix)](https://linutronix.de/en/schulung/realtime_and_more.php) - Linux and Realtime (Preempt-RT).
 - [Tracing & Debug (Linutronix)](https://linutronix.de/en/schulung/tracing_and_more.php) - Detailed insight into the Linux Tracing Infrastructure and its powerful features.
+- [RcoreOS](https://github.com/rcore-os) - Operating System components written in Rust.
 
 
 ## Developer Hubs
