@@ -337,6 +337,8 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 
 #### Remote Access
 - [FreeRDP](https://github.com/FreeRDP) - opensource, multiplatform RDP server and client(s).
+- [RustDesk](https://github.com/rustdesk/rustdesk) - remote desktop in Rust!
+
 
 ### Security-tools
 - [Wazuh](https://wazuh.com/) - complete security-tools suite.
@@ -536,6 +538,10 @@ Concerns DSP/CPU/MCU-to-MCU/CPU/DSP type communication between heterogenous core
 
 - [SBC-Reviews](https://github.com/geerlingguy/sbc-reviews) - Benchmarking popular ARM-SBCs. Also lots of info on Ansible-automation.
 
+
+### Linux newsreels and gazzetes
+
+- [9to5linux](https://9to5linux.com/) - Everything Linux ...
 
 
 ## Related awesome lists
