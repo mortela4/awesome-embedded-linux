@@ -278,6 +278,11 @@ This section contains sub-sections covering
 Unified bootloader + kernel + drivers + (basic)userspace + applications(optionally) bundles.
 'Basic' userspace may or may not include Wayland/X11-support w. minimum window-manager system (i.e. Weston).
 
+### Desktop-AARCH64
+Mostly QualComm SoCs in Chromebooks and PCs.
+- [AARCH64-LapTops](https://github.com/aarch64-laptops) - AARCH64-based laptops & pads/handhelds.
+
+
 ### Vendor-supported SoC platforms
 - [RZ/G Linux Platform](https://www.renesas.com/eu/en/products/rzg-linux-platform.html) - Renesas' RZ-family (and R-CAR) ARM64-SoC Linux-platform
 - [RockChip Linux](https://github.com/linux-rockchip) - RockChip RK35xx a.o. ARM64-SoC Linux support
@@ -295,6 +300,7 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 ### RISC-V Specific (or affiliated)
 - [RISCstar](https://github.com/riscstar) - RISC-V Linux generally, and secure-boot solutions specifically. See presentations!
 - [Banana-Pi](https://docs.banana-pi.org/en/home) - Home to the "Banana-Pi" SpaceMiT-based RISC-V SBC (plus more). Opensource HW&SW!
+- [SpacemiT](https://github.com/sanderjo/SpacemiT-K3-X100-A100) - Various info on SpacemiT RISC-V SoCs.
 
 
 ## Process control systems
