@@ -31,6 +31,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Platforms](#platforms) - bootloader+kernel+drivers+(basic)userspace+apps(optionally)
 - [Process control systems](#process-control-systems)
 - [Tools](#tools)
+  - [Kernel-Development Tools](#kernel-development-tools) 
   - [SSH-Tools](#ssh-tools)
   - [SysAdm Tools](#sysadm)
   - [Security-tools](#security-tools)
@@ -306,6 +307,10 @@ Unified bootloader + kernel + drivers + (basic)userspace + applications(optional
 
 
 ## Tools
+
+### Kernel-Development Tools
+- [Review-Prompts](https://github.com/masoncl/review-prompts) - Review kernel patches semi-automatically using chatprompts.
+
 
 ### SSH-Tools 
 
