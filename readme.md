@@ -384,6 +384,11 @@ directly(i.e. tool generates report fit for compliance-doc) or indirectly(user c
 - [Fzf](https://github.com/junegunn/fzf) - "Fuzzy Finder"; advanced 'find' using fuzzy algorithm(s).
 - [Redis Insights](https://redis.io/insight/) - Dashboard/GUI for viewing Redis DB/broker data and inner workings.
 
+#### HW-debug Tools
+CANbus tools:
+- [CANgaroo](https://github.com/OpenAutoDiagLabs/CANgaroo) - Multi-functional GUI app for both low-level CAN bus analysis as well as high-level data analysis (e.g. CANopen etc.)
+
+
 
 ### USB
 
