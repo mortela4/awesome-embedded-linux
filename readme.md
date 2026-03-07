@@ -264,6 +264,7 @@ This section contains sub-sections covering
 
 - [LibFPrint](https://github.com/Xelef2000/libfprint) - Unified fingerprint-sensor access API.
 - [DPDK](https://core.dpdk.org/) - 'DataPlaneDevelopmentKit', for ultra-efficient networking (i.e. using CXL and associated drivers)
+- [OpenDDS](https://github.com/OpenDDS/OpenDDS) - opensource DDS-protocol implementation; with distro-libs for arm64-Linux also.
 
 
 ## OTA software updates
