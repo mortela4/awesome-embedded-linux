@@ -130,6 +130,7 @@ This section contains sub-sections covering
   - [Sagemaker Neo](https://aws.amazon.com/sagemaker/neo/) - Train models once, run anywhere with up to 2x performance improvement.
   - [IoT Sitewise](https://aws.amazon.com/iot-sitewise) - Easily collect, organize and analyze data from industrial equipment at scale.
   - [Wavelength](https://aws.amazon.com/wavelength/) - Deliver ultra-low latency applications for 5G devices.
+  - [GyroidOS](https://github.com/gyroidos) - IoT-focused Linux-VM; 'linux-in-linux' provides full OS-isolation and security but w/o container-handicaps.
 
 ## Databases
 
