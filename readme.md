@@ -97,6 +97,7 @@ This section contains sub-sections covering
 - [picl-k3os-image-generator](https://github.com/sgielen/picl-k3os-image-generator) - Generates images for k3os compatible with various armv8/aarch64/arm64 devices.
 - [PTXdist](https://www.ptxdist.org).
 - [ARMbian Builder](https://github.com/armbian/build) - Buildscript/system for building ARMbian-distro(i.MX6/7/8/9 supported a.o.)
+- [ELBE eBook](https://rootfx.io/book.html) - Learn to build embedded Linux systems w. ELBE(Debian-type rootfs).
 
 
 ## Container runtimes
