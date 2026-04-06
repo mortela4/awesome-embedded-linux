@@ -267,6 +267,7 @@ This section contains sub-sections covering
 - [DPDK](https://core.dpdk.org/) - 'DataPlaneDevelopmentKit', for ultra-efficient networking (i.e. using CXL and associated drivers)
 - [OpenDDS](https://github.com/OpenDDS/OpenDDS) - opensource DDS-protocol implementation; with distro-libs for arm64-Linux also.
 - [CppTimer](https://github.com/berndporr/cppTimer) - C++ wrapper around POSIX (RT-)timers.
+- [SimpleBLE](https://simpleble.org/) - BluetoothLE library for embedded (MCU platforms first and foremost).
 
 
 ## OTA software updates
