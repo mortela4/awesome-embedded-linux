@@ -341,6 +341,7 @@ Mostly QualComm SoCs in Chromebooks and PCs.
 
 #### Utils
 - [Nemotron](https://developer.nvidia.com/nemotron) - generate custom Bash-extensions(=scripts) using nVidia's "Nemotron" AI-tool.
+- [CoreUtils](https://github.com/microsoft/coreutils) - Cross-platform 'coreutils' for WinXX in Rust (run UNIX-scripts in PowerShell)
 
 
 #### System Config and Control
