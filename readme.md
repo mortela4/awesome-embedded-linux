@@ -27,6 +27,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Kubernetes](#kubernetes)
 - [Kubernetes Edge Computing Platforms](#kubernetes-edge-computing-platforms)
 - [Libraries and APIs](#linux-libs)
+- [MultiMedia](#multimedia)
 - [OTA software updates](#ota-software-updates)
 - [Platforms](#platforms) - bootloader+kernel+drivers+(basic)userspace+apps(optionally)
 - [Process control systems](#process-control-systems)
@@ -268,6 +269,11 @@ This section contains sub-sections covering
 - [OpenDDS](https://github.com/OpenDDS/OpenDDS) - opensource DDS-protocol implementation; with distro-libs for arm64-Linux also.
 - [CppTimer](https://github.com/berndporr/cppTimer) - C++ wrapper around POSIX (RT-)timers.
 - [SimpleBLE](https://simpleble.org/) - BluetoothLE library for embedded (MCU platforms first and foremost).
+
+
+## MultiMedia
+
+- [VocaLinux](https://vocalinux.com) - Voice-recognition and Control under Linux.
 
 
 ## OTA software updates
