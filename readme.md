@@ -16,6 +16,7 @@ Embedded Linux: Operating systems based on the Linux kernel used in embedded sys
 - [Cloud infrastructure](#cloud-infrastructure)
 - [Cloud provider integration](#cloud-provider-integration)
 - [Databases](#databases)
+- [Devtools](#devtools)
 - [Display servers](#display-servers)
 - [Distributions](#distributions)
 - [Host-based Intrusion Detection Systems](#host-based-intrusion-detection-systems)
@@ -139,6 +140,16 @@ This section contains sub-sections covering
 - [MongoDB Mobile](https://www.mongodb.com/products/mobile) - NoSQL MongoDB as embedded database for embedded devices (embedded, document-oriented).
 - [Raima Database Manager](https://raima.com/raima-database-manager/) - Embedded, cross-platform, small-footprint, in-memory database developed for the IoT and the edge market (embedded, SQL).
 - [SQLite](https://www.sqlite.org) - Defacto standard embedded SQL database for mobile phones (embedded, SQL).
+
+## Devtools
+Linux-specific development tools.
+
+### Kernel tools
+- [KwernelWorkflow](https://kworkflow.org/) - Simplified setup of kernel-dev workflow.
+
+### GPU Tools
+- [AMD ROCm](https://rocm.docs.amd.com) - AMD's "ROCm" SDK for GPU low-level LLM programming (a la CUDA).
+
 
 ## Display Servers
 
